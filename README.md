@@ -5,7 +5,9 @@ Dataset: [Download](https://drive.google.com/u/0/uc?export=download&confirm=qrVw
 
 # 環境
 Python : 3.11.13
+
 OpenCV : 4.12.0
+
 Numpy : 1.26.4
 
 
